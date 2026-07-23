@@ -6,7 +6,7 @@ Bu depo, Turkcell Akademi tarafından sunulan **SQL ile Veritabanı Sorgulama 10
 
 ## 🎓 Başarı Belgesi
 
-![Turkcell Akademi SQL 101 Başarı Belgesi](sertifika.jpg)
+![Turkcell Akademi SQL 101 Başarı Belgesi](Sertifika.png)
 
 📜 **Resmî Sertifika Doğrulama Adresi:**  
 🔗 [Turkcell Geleceği Yazanlar Sertifika Doğrulama Linki](https://gelecegiyazanlar.turkcell.com.tr/sertifika/be043de8f9de4e3d8d8e103219b2dea6)
