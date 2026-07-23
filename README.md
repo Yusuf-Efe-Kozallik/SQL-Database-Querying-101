@@ -1,73 +1,56 @@
-# Turkcell Geleceği Yazanlar - SQL ile Veritabanı Sorgulama 101
-
-Bu depo, Turkcell Akademi tarafından sunulan **SQL ile Veritabanı Sorgulama 101** eğitiminde tamamlanan T-SQL pratiklerini, veritabanı sorgulama mantığını ve elde edilen başarı belgesini içermektedir.
+This repository contains setup steps, database theory, T-SQL practical exercises, and the official course certificate for the **SQL Database Querying 101** training provided by Turkcell Academy.
 
 ---
 
-## 🎓 Başarı Belgesi
+## 🎓 Certificate of Achievement
 
-![Turkcell Akademi SQL 101 Başarı Belgesi](Sertifika.png)
+![Turkcell Academy SQL 101 Certificate](Sertifika.png)
 
-📜 **Resmî Sertifika Doğrulama Adresi:**  
-🔗 [Turkcell Geleceği Yazanlar Sertifika Doğrulama Linki](https://gelecegiyazanlar.turkcell.com.tr/sertifika/be043de8f9de4e3d8d8e103219b2dea6)
-
----
-
-# Turkcell Geleceği Yazanlar - SQL ile Veritabanı Sorgulama 101
-
-Bu depo, Turkcell Akademi **SQL ile Veritabanı Sorgulama 101** eğitimi kapsamında tamamlanan kurulum adımlarını, veritabanı teorisini, T-SQL sorgularını ve elde edilen başarı belgesini içermektedir.
+📜 **Official Certificate Verification Link:**  
+🔗 [Turkcell Geleceği Yazanlar Certificate Verification Page](https://gelecegiyazanlar.turkcell.com.tr/sertifika/be043de8f9de4e3d8d8e103219b2dea6)
 
 ---
 
-## 🎓 Başarı Belgesi
+## 📚 Course Curriculum & Skills Acquired
 
-![Turkcell Akademi SQL 101 Başarı Belgesi](Sertifika.png)
+### 1. Introduction & Core Concepts
+- Fundamentals of Databases and SQL Language
+- Relational Database Management Systems (RDBMS)
 
-📜 **Resmî Sertifika Doğrulama Adresi:**  
-🔗 [Turkcell Geleceği Yazanlar Sertifika Doğrulama Linki](https://gelecegiyazanlar.turkcell.com.tr/sertifika/be043de8f9de4e3d8d8e103219b2dea6)
+### 2. Environment Setup & Architecture
+- Virtual Machine Concepts: VMWare & Windows Server 2022 Setup
+- SQL Server Installation & Configuration
+- SQL Server Management Studio (SSMS) Setup & Connection Architecture
 
----
+### 3. Database Creation & Data Types
+- Database Architecture & Fundamentals of Normalization
+- Numeric Data Types (Integers & Decimals)
+- String Data Types (`CHAR`, `VARCHAR`, etc.)
+- Date-Time & Other Specialist Data Types
 
-## 📚 Eğitim Müfredatı ve İçerik
+### 4. DML (Data Manipulation Language) Commands
+- `SELECT`: Querying Data
+- `INSERT`: Inserting New Records
+- `UPDATE`: Updating Existing Data
+- `DELETE` vs `TRUNCATE`: Data Removal Architectural Differences
 
-### 1. Giriş ve Temel Kavramlar
-- Veritabanı ve SQL Dili Temelleri
-- İlişkisel Veritabanı Yönetim Sistemleri (RDBMS)
+### 5. `WHERE` Clause & Filtering Operators
+- Comparison Operators (`=`, `<>`, `>`, `<`)
+- Pattern Matching & Range Operators (`LIKE`, `NOT LIKE`, `BETWEEN`, `IN`)
+- Logical Operators (`AND`, `OR`, and Combined Usage Logic)
+- Conditional `UPDATE` and `DELETE` Operations
 
-### 2. Kurulum ve Mimari
-- Sanal Makine Kavramı ve VMWare / Windows Server 2022 Kurulumu
-- SQL Server Kurulumu ve Yönetimi
-- SQL Server Management Studio (SSMS) Kurulumu ve Bağlantı Mimarisi
+### 6. Query Customization & Additional Commands
+- `DISTINCT`: Listing Unique/Non-Duplicate Records
+- `ORDER BY`: Sorting Query Results (`ASC` / `DESC`)
+- `TOP`: Limiting Result Set Size
+- `ALIAS`: Column & Table Renaming (`AS`)
 
-### 3. Veritabanı Oluşturma & Veri Tipleri
-- Veritabanı Mimarisi ve Normalizasyon Temelleri
-- Sayısal Veri Tipleri (Tam Sayı & Ondalık Sayılar)
-- Metinsel Veri Tipleri (`CHAR`, `VARCHAR` vb.)
-- Tarih-Saat ve Diğer Veri Tipleri
-
-### 4. DML (Data Manipulation Language) Komutları
-- `SELECT`: Veri Sorgulama
-- `INSERT`: Yeni Veri Ekleme
-- `UPDATE`: Veri Güncelleme
-- `DELETE` ve `TRUNCATE`: Veri Silme ve Aralarındaki Mimari Farklar
-
-### 5. `WHERE` Koşulu ve Filtreleme Operatörleri
-- Karşılaştırma Operatörleri (`=`, `<>`, `>`, `<`)
-- Metinsel Arama ve Aralık Operatörleri (`LIKE`, `NOT LIKE`, `BETWEEN`, `IN`)
-- Mantıksal Bağlaçlar (`AND`, `OR` ve Birlikte Kullanım Mantığı)
-- Koşullu `UPDATE` ve `DELETE` İşlemleri
-
-### 6. Sorgu Özelleştirme ve Diğer Komutlar
-- `DISTINCT`: Tekrarsız/Benzersiz Kayıtları Listeleme
-- `ORDER BY`: Verileri Sıralama (`ASC` / `DESC`)
-- `TOP`: Belirli Sayıda Kayıt Getirme
-- `ALIAS`: Takma Ad Kullanımı (`AS`)
-
-### 7. DDL (Data Definition Language) Komutları
-- `CREATE`: Tablo ve Nesne Oluşturma
-- `ALTER`: Tablo Yapısını Değiştirme
-- `DROP`: Tablo veya Nesne Silme
+### 7. DDL (Data Definition Language) Commands
+- `CREATE`: Building Tables & Database Objects
+- `ALTER`: Modifying Existing Table Structures
+- `DROP`: Removing Tables & Objects
 
 ---
 
-*Eğitim ve Sertifika Tarihi: 23 Temmuz 2026*
+*Completion Date: July 23, 2026*
